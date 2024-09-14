@@ -35,7 +35,7 @@ function App() {
 
 
       <a
-        href="https://wa.me/9262689110"
+        href="https://wa.me/87898 32218"
         target="_blank"  /* Opens link in new tab */
         rel="noopener noreferrer" /* Security reasons for opening new tab */
         className="Btn d-flex align-items-center justify-content-start"
