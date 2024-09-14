@@ -21,10 +21,25 @@ function AppointmentForm() {
           <Form.Label>Message</Form.Label>
           <Form.Control as="textarea" rows={3} />
         </Form.Group>
-
+{/* 
         <Button className='mt-3' variant="primary" type="submit">
           Submit
-        </Button>
+        </Button> */}
+
+<button className="hover-button mt-2">
+      <div className='d-flex justify-content-center align-item-center ' >
+        <span>
+          <p>Submit</p>
+          <p></p>
+        </span>
+      </div>
+      <div className='d-flex justify-content-center align-item-center '>
+        <span>
+          <p className='d-flex justify-content-center align-items-center'> Thanks</p>
+        </span>
+      </div>
+    </button>
+
       </Form>
     </Container>
   );

@@ -11,7 +11,8 @@
   }
   
   .hover-text:hover {
-    color: #131842;
+    /* color: #131842; */
+    color: #FFC700;
     cursor: pointer;
   }
   .hover-text {
@@ -74,7 +75,8 @@
 
 
 .footer h2:hover::after {
-  color: #131842;
+  /* color: #131842; */
+  color: #FFC700;
   cursor: pointer;
 }
 
@@ -117,6 +119,9 @@
   margin-bottom: 1rem;
 }
 
+.hover-texts:hover{
+  color: #FFC700 !important;
+}
 
 /* src/footers.css */
 

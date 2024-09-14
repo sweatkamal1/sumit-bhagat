@@ -5,8 +5,17 @@ import "./portfolio.css";
 
 const Portfolio = () => {
   return (
-    <Container id="portfolio" className="port my-5 p-3 clearfix"> 
-      <h2 className="text-center">My Achievement</h2>
+    <Container  id="portfolio" className="port my-5 p-3 clearfix"> 
+      <h2 className="text-center pt-5">My Achievement</h2>
+
+      <div className="text-center">
+        <img 
+          src={Images.Image7} 
+          alt="Activities Banner" 
+          className="img-fluid" 
+        />
+      </div>
+
       <Row>
         <Col xs={12} sm={12} md={4} className="mb-4">
           <Card className="h-100">

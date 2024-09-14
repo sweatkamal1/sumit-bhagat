@@ -37,10 +37,10 @@ function App() {
             <div className="col-md-3 contact-section">
               <h2 className=''>Contact</h2>
               <div className='opds3'></div>
-              <p><FontAwesomeIcon icon={faPhone} /> Phone:+91 87898 32218</p>
-              <p><FontAwesomeIcon icon={faMapMarkerAlt} /> Address: Bhagatpatti Naugachia <br />Bhagalpur, Bihar - 853204, Bihar, India<br /></p>         
-              <p><FontAwesomeIcon icon={faPhone}/> Emergency: +91 87898 32218</p>
-              <p>
+              <p className="hover-texts"><FontAwesomeIcon  icon={faPhone} /> Phone:+91 87898 32218</p>
+              <p className="hover-texts"><FontAwesomeIcon icon={faMapMarkerAlt} /> Address: Bhagatpatti Naugachia <br />Bhagalpur, Bihar - 853204, Bihar, India<br /></p>         
+              <p className="hover-texts"><FontAwesomeIcon icon={faPhone}/> Emergency: +91 87898 32218</p>
+              <p className="hover-texts">
         <FontAwesomeIcon icon={faEnvelope} /> Email:Sumitbhagat 9939@gmail.com </p>
 
         

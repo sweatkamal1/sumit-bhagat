@@ -7,7 +7,7 @@ function Services() {
   return (
     <div className='my'>
       {/* Our Activities Section */}
-      <h2 className="text-center">My Social Work</h2>
+      <h2 className="text-center pt-5">My Social Work</h2>
       {/* Image below "Our Activities" heading */}
       <div className="text-center">
         <img 
