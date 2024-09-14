@@ -84,6 +84,12 @@
   .janm{
     /* color: #3AA6B9; */
     font-weight: 800;
+    /* padding-top: 1rem; */
+  }
+  .rakt{
+    padding-top: 0;
+    padding-bottom: 0;
+    margin-bottom: 0;
   }
   .day{
     /* background: #D9D7F1; */
@@ -119,10 +125,19 @@
 
 .vgyan{
   font-weight: 600;
+  padding-bottom: 0;
+  padding-top:1rem !important;
+  padding: 0;
+  margin: 0;
 }
 
 .singh{
   font-weight: 600;
+}
+.rakt{
+  margin:0 !important;
+  padding:0 !important;
+  padding-top:0 !important;
 }
 
 
