@@ -27,4 +27,5 @@ export const Images = {
     Image24:"./asets/samrat.jpg",
     Image25:"./asets/samman-2.jpg",
     Image26:"./asets/s-logo.jpg",
+    Image27:"./asets/sumit-pr.jpg",
 }

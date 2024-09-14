@@ -13,7 +13,7 @@ const About = () => {
       <Row>
         <Col md={4}>
           {/* Set the image to be circular */}
-          <Image src={Images.Image} style={{height: "300px"}} roundedCircle fluid />
+          <Image className='sumit-bhagat mx-5' src={Images.Image27} style={{height: "300px", width: "300px"}} roundedCircle fluid />
         </Col>
         <Col md={8}>
           <h1 className='a-me'>About Me</h1>

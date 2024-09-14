@@ -48,6 +48,11 @@
   }
 
   @media (min-width: 412px){
+    .clr-white{
+      padding: 1rem;
+      padding-bottom: 0;
+      padding-top: 0;
+    }
   
   }
 
@@ -55,13 +60,18 @@
   /* For small mobile devices */
 @media (max-width: 480px) {
   .clr-white{
-    font-size: 1rem;
-  }}
+    padding: 1rem;
+    padding-bottom: 0;
+    padding-top: 0;
+  }
+}
 
 /* For medium mobile devices */
 @media (min-width: 481px) and (max-width: 768px) {
   .clr-white{
-    font-size: 1rem;
+    padding: 1rem;
+    padding-bottom: 0;
+    padding-top: 0;
   }}
 
   
