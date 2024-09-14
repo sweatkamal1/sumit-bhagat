@@ -118,17 +118,11 @@
 }
 
 .vgyan{
-  padding-top: 0.5rem;
   font-weight: 600;
-  margin: 0 !important;
 }
 
 .singh{
   font-weight: 600;
-}
-.rakt{
-  padding: 0;
-  margin: 0 !important;
 }
 
 
@@ -165,7 +159,6 @@
       display: flex;
       justify-content: center;
     }
-   
 }
 
 /* For medium mobile devices */

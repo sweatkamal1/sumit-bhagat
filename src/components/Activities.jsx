@@ -32,7 +32,7 @@ function Services() {
               className="img-fluid" 
             />
             <p className='janm'>क्लीन  नौगछिया ग्रीन नौगछिया के द्वारा
-              <p className='rakt'>  रक्तदान शिविर में भाग लिया</p>
+              <p>  रक्तदान शिविर में भाग लिया</p>
             </p>
           </div>
         </div>
@@ -51,7 +51,7 @@ function Services() {
               className="img-fluid" 
             />
             <p className='janm'> क्लीन  नौगछिया ग्रीन नौगछिया के द्वारा
-              <p className='rakt'>रक्तदान शिविर में प्रमाण पत्र देते हुए</p>
+              <p>रक्तदान शिविर में प्रमाण पत्र देते हुए</p>
             </p>
           </div>
         </div>
@@ -70,7 +70,7 @@ function Services() {
             />
             <p className='janm'> केन्द्रीय रेलवे रेल यात्री संघ के द्वारा
              
-              <p className='rakt'>व्हीलचेयर बांटते  हुए</p>
+              <p>व्हीलचेयर बांटते  हुए</p>
             </p>
           </div>
         </div>
@@ -87,7 +87,7 @@ function Services() {
               }} 
               className="img-fluid" 
             />
-            <p className='janm'>क्लीन  नौगछिया ग्रीन नौगछिया के द्वारा<p className='rakt'>जरुरतमंद को भोजन बांटते  हुए</p>
+            <p className='janm'>क्लीन  नौगछिया ग्रीन नौगछिया के द्वारा<p>जरुरतमंद को भोजन बांटते  हुए</p>
             </p>
           </div>
         </div>
